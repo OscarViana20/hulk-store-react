@@ -1,0 +1,8 @@
+.card-products .p-card-body {
+    padding: 0 1.25em 1.25em 1.25em;
+}
+
+.card-products .datatable-header {
+    display: flex;
+    justify-content: space-between;
+}

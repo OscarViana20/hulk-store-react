@@ -1,0 +1,41 @@
+.auth-container { /* o el contenedor principal de tu app */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F5F5F5;
+}
+
+.auth-container .p-card {
+    width: 300px;
+    text-align: center;
+}
+
+.auth-container .p-card .p-card-header {
+    padding-top: 1.25em;
+}
+
+.auth-container .p-card .p-card-header img {
+    width: 50%;
+}
+
+.auth-container .p-card .p-card-content {
+    padding: 0px;
+}
+
+.auth-container .p-card input {
+    margin-top: 1.25em;
+}
+
+.auth-container .p-card .p-card-title {
+    padding-top: 10px;
+}
+
+.auth-container .p-card .p-card-body {
+    padding: 0px 1.25em 1.25em 1.25em;
+}
+
+.auth-container .p-card .p-card-footer {
+    display: inline-flex;
+    gap: 1em;
+}

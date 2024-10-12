@@ -1,0 +1,12 @@
+.card-shopping {
+    width: 50%;
+}
+
+.ard-shopping .p-card-body {
+    padding: 0 1.25em 1.25em 1.25em;
+}
+
+.ard-shopping .datatable-header {
+    display: flex;
+    justify-content: space-between;
+}

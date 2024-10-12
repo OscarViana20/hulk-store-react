@@ -1,0 +1,26 @@
+.custom-navbar {
+    color: white;
+    font-weight: bold;
+    background-color: #3f51b5 !important;
+}
+
+.custom-navbar .p-toolbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.custom-navbar .nav-link {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.custom-navbar .p-button.p-button-text {
+    color: white;
+    border-color: white;
+    font-weight: bold;
+}
+
+.product-modal .p-dialog-header {
+    padding: 1.25em 1.25em 0 1.25em;
+}

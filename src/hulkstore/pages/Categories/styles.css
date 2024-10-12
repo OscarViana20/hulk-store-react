@@ -1,0 +1,8 @@
+.card-categories .p-card-body {
+    padding: 0 1.25em 1.25em 1.25em;
+}
+
+.card-categories .datatable-header {
+    display: flex;
+    justify-content: space-between;
+}
